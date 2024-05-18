@@ -1,0 +1,40 @@
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.pot
+*.po
+*.mo
+*.tmp
+*.swp
+
+# Dependency directories
+lib/
+libs/
+dist/
+build/
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Compiled C extensions
+*.so
+
+# Distribution/distutils metadata
+*.egg-info/
+dist/
+build/
